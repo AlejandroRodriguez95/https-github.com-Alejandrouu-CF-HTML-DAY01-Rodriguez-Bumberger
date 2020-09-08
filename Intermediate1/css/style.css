@@ -1,6 +1,15 @@
 input[type=text], input[type=email]{
     width: 20%;
-    margin-top: 4px;
+    margin-top: 8px;
     display: block;
   }
   
+  input[type=radio]
+{
+  margin-top: 10px;
+  display: inline;
+}
+textarea{
+  width: 30%;
+  height: 70px;
+}
